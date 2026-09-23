@@ -162,7 +162,7 @@ az storage account create \
 
 az storage container create \
   --name tfstate \
-  --account-name YOUR_STORAGE_ACCOUNT
+  --account-name stgtfstatenzgael
 ```
 
 ### Deploy
@@ -221,7 +221,7 @@ This project maps directly to the following certification domains:
 
 **Gaël Nzunga** — Senior Systems Administrator · Azure Specialist · Montreal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-nzunga-263b3828/)
 [![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104_Certified-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/)
 [![AZ-305](https://img.shields.io/badge/Microsoft-AZ--305_Oct_2026-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/)
 
